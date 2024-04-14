@@ -191,7 +191,7 @@ if (isset($_GET["feature"])) {
 
     <head>
         <meta charset="UTF-8" />
-        <title>p0wny@shell:~#</title>
+        <title>ibanez@shell:~#</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <style>
             html, body {
@@ -585,12 +585,12 @@ if (isset($_GET["feature"])) {
         <div id="shell">
             <pre id="shell-content">
                 <div id="shell-logo">
-        ___                         ____      _          _ _        _  _   <span></span>
- _ __  / _ \__      ___ __  _   _  / __ \ ___| |__   ___| | |_ /\/|| || |_ <span></span>
-| '_ \| | | \ \ /\ / / '_ \| | | |/ / _` / __| '_ \ / _ \ | (_)/\/_  ..  _|<span></span>
-| |_) | |_| |\ V  V /| | | | |_| | | (_| \__ \ | | |  __/ | |_   |_      _|<span></span>
-| .__/ \___/  \_/\_/ |_| |_|\__, |\ \__,_|___/_| |_|\___|_|_(_)    |_||_|  <span></span>
-|_|                         |___/  \____/                                  <span></span>
+     _ _                           ____      _          _ _ <span></span>
+    (_) |__   __ _ _ __   ___ ____/ __ \ ___| |__   ___| | |<span></span>
+    | | '_ \ / _` | '_ \ / _ \_  / / _` / __| '_ \ / _ \ | |<span></span>
+    | | |_) | (_| | | | |  __// / | (_| \__ \ | | |  __/ | |<span></span>
+    |_|_.__/ \__,_|_| |_|\___/___\ \__,_|___/_| |_|\___|_|_|<span></span>
+                                  \____/                    <span></span>
                 </div>
             </pre>
             <div id="shell-input">
