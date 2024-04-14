@@ -1,7 +1,7 @@
 <?php
 
 $SHELL_CONFIG = array(
-    'username' => 'p0wny',
+    'username' => 'ibanez',
     'hostname' => 'shell',
 );
 
